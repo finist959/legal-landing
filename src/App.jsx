@@ -1,3 +1,4 @@
+import React from 'react'
 export default function App(){
   return (
     <div className="min-h-screen text-slate-900 font-sans" style={{background:'#f5f9ff'}}>
